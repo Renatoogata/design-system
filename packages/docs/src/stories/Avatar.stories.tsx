@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/renatoogata.png',
     alt: 'Renato Ide Ogata',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
