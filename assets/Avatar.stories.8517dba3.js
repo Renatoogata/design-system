@@ -1,0 +1,2 @@
+import{A as t}from"./index.58a9121a.js";import"./index.93bf7097.js";import"./iframe.f60726e8.js";import"./index.937230f2.js";import"./jsx-runtime.133bfd7a.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/renatoogata.png",alt:"Renato Ide Ogata"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallBack"];export{p as Primary,c as WithFallBack,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.8517dba3.js.map
